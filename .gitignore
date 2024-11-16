@@ -1,0 +1,20 @@
+# Ignore Go build files
+/bin
+/pkg
+/vendor
+
+# Ignore IDE and editor files
+/.idea
+/.vscode
+/.DS_Store
+
+# Ignore OS files
+/Thumbs.db
+/.ehthumbs.db
+/desktop.ini
+
+# Ignore logs
+/logs
+/*.log
+
+/.env
